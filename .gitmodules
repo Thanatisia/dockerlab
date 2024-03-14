@@ -1,0 +1,3 @@
+[submodule "Dockerfiles/docker-ide/authors/Thanatisia/docker-ide"]
+	path = Dockerfiles/docker-ide/authors/Thanatisia/docker-ide
+	url = https://github.com/Thanatisia/docker-ide

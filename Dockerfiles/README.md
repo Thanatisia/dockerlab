@@ -37,7 +37,9 @@
 
 
 ## Entries
-
+- docker-ide : Docker-based local/remote (cloud) Integrated Development Environment (IDE) with a idea of how webIDE platforms like repl.it and VPSes operate
+    - authors:
+        + Thanatisia
 
 ## Wiki
 
