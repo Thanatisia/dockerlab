@@ -3,6 +3,7 @@
 ## Table of Contents
 + [2024-03-13](#2024-03-13)
 + [2024-03-14](#2024-03-14)
++ [2024-03-15](#2024-03-15)
 
 ## Entry Logs
 ### 2024-03-13
@@ -23,4 +24,10 @@
 - Updates
     - Updated document 'README.md' in 'Dockerfiles/'
         + Added new submodule project as entry
+
+### 2024-03-15
+#### 1106H
+- Updates
+    - Updated '.gitmodules'
+        + Updated submodule for project 'Thanatisia/docker-ide' in 'Dockerfiles/docker-ide/authors/Thanatisia'
 
