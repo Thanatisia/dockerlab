@@ -31,3 +31,8 @@
     - Updated '.gitmodules'
         + Updated submodule for project 'Thanatisia/docker-ide' in 'Dockerfiles/docker-ide/authors/Thanatisia'
 
+#### 1400H
+- Updates
+    - Updated '.gitmodules'
+        + Updated submodule for project 'Thanatisia/docker-ide' in 'Dockerfiles/docker-ide/authors/Thanatisia'
+
