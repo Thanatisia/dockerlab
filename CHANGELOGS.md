@@ -4,6 +4,7 @@
 + [2024-03-13](#2024-03-13)
 + [2024-03-14](#2024-03-14)
 + [2024-03-15](#2024-03-15)
++ [2024-03-16](#2024-03-16)
 
 ## Entry Logs
 ### 2024-03-13
@@ -32,6 +33,12 @@
         + Updated submodule for project 'Thanatisia/docker-ide' in 'Dockerfiles/docker-ide/authors/Thanatisia'
 
 #### 1400H
+- Updates
+    - Updated '.gitmodules'
+        + Updated submodule for project 'Thanatisia/docker-ide' in 'Dockerfiles/docker-ide/authors/Thanatisia'
+
+### 2024-03-16
+#### 2345H
 - Updates
     - Updated '.gitmodules'
         + Updated submodule for project 'Thanatisia/docker-ide' in 'Dockerfiles/docker-ide/authors/Thanatisia'
